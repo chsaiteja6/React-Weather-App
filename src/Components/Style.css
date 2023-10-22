@@ -1,0 +1,16 @@
+.current{
+padding:30px;
+
+}
+h3{
+    margin:25px;
+}
+
+@keyframes slide{
+   from{
+    transform: translateX(100%);
+   }
+   to{
+    transform: translateX(-100%);
+   }
+}
